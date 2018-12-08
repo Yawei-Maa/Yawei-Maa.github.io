@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[从烈火烹油到批量死亡，区块链媒体“梦碎”]]></title>
+    <url>%2F2018%2F12%2F09%2Fasset-test%2F</url>
+    <content type="text"><![CDATA[摘要: 和其他行业相比，区块链媒体的行业周期要短的多，半年时间就从遍地捡钱到批量死亡。回顾过去，很多人对这个行业的印象都惊人的一致：从业者鱼龙混杂，职业操守堪忧。90%以上区块链媒体被认为是骗子。他们批量被淘汰后，这个行业还有春天吗？ 本文来自全天候科技，阅读更多请登陆www.awtmt.com或华尔街见闻APP。 作者| 张吉龙 编辑| 安心 从今年年初到现在，李见换了三家公司，title也变了三次，他先是一家传统媒体的记者，然后变成一家区块链媒体的记者，现在是一家币圈交易所的公关（PR）。 在区块链媒体行业里，李见的经历并非孤例。从传统媒体人到区块链媒体人再到离场，行业的起伏改变了很多人的职业轨迹，在短短的几个月里，很多人从心怀热情到理想破灭，对这个行业充满了失望。 从烈火烹油到大范围的裁员、倒闭，转型，区块链媒体在短短几个月内完整的经历了一个周期。大部分玩家已经退场，少部分人还在艰难坚持，他们希望自己能够挺过这个冬天，但行业回暖到底还会不会来？谁也说不准。]]></content>
+      <categories>
+        <category>区块链</category>
+        <category>新闻</category>
+      </categories>
+      <tags>
+        <tag>新金融</tag>
+        <tag>区块链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hello world]]></title>
+    <url>%2F2018%2F12%2F08%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>Hexo</category>
+        <category>Tools</category>
+        <category>PHP</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+</search>
