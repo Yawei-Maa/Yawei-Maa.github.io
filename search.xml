@@ -1,278 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[从烈火烹油到批量死亡，区块链媒体“梦碎”]]></title>
-    <url>%2F2018%2F12%2Fasset-test%2F</url>
-    <content type="text"><![CDATA[摘要: 和其他行业相比，区块链媒体的行业周期要短的多，半年时间就从遍地捡钱到批量死亡。回顾过去，很多人对这个行业的印象都惊人的一致：从业者鱼龙混杂，职业操守堪忧。90%以上区块链媒体被认为是骗子。他们批量被淘汰后，这个行业还有春天吗？ 本文来自全天候科技，阅读更多请登陆www.awtmt.com或华尔街见闻APP。 作者| 张吉龙 编辑| 安心 从今年年初到现在，李见换了三家公司，title也变了三次，他先是一家传统媒体的记者，然后变成一家区块链媒体的记者，现在是一家币圈交易所的公关（PR）。 在区块链媒体行业里，李见的经历并非孤例。从传统媒体人到区块链媒体人再到离场，行业的起伏改变了很多人的职业轨迹，在短短的几个月里，很多人从心怀热情到理想破灭，对这个行业充满了失望。 从烈火烹油到大范围的裁员、倒闭，转型，区块链媒体在短短几个月内完整的经历了一个周期。大部分玩家已经退场，少部分人还在艰难坚持，他们希望自己能够挺过这个冬天，但行业回暖到底还会不会来？谁也说不准。]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>从烈火烹油到批量死亡，区块链媒体“梦碎”</title>
+      <link href="/2018/12/asset-test/"/>
+      <url>/2018/12/asset-test/</url>
+      
+        <content type="html"><![CDATA[<!-- ![](./asset-test/article-header-img.jpg) --><img src="/2018/12/asset-test/article-header-img.jpg"><blockquote><p>摘要: 和其他行业相比，区块链媒体的行业周期要短的多，半年时间就从遍地捡钱到批量死亡。回顾过去，很多人对这个行业的印象都惊人的一致：从业者鱼龙混杂，职业操守堪忧。90%以上区块链媒体被认为是骗子。他们批量被淘汰后，这个行业还有春天吗？</p></blockquote><p><em>本文来自全天候科技，阅读更多请登陆<a href="www.awtmt.com">www.awtmt.com</a>或华尔街见闻APP。</em></p><a id="more"></a><p>作者| 张吉龙 编辑| 安心</p><p>从今年年初到现在，李见换了三家公司，title也变了三次，他先是一家传统媒体的记者，然后变成一家区块链媒体的记者，现在是一家币圈交易所的公关（PR）。</p><p>在区块链媒体行业里，李见的经历并非孤例。从传统媒体人到区块链媒体人再到离场，行业的起伏改变了很多人的职业轨迹，在短短的几个月里，很多人从心怀热情到理想破灭，对这个行业充满了失望。</p><p>从烈火烹油到大范围的裁员、倒闭，转型，区块链媒体在短短几个月内完整的经历了一个周期。大部分玩家已经退场，少部分人还在艰难坚持，他们希望自己能够挺过这个冬天，但行业回暖到底还会不会来？谁也说不准。</p>]]></content>
+      
+      
       <categories>
-        <category>区块链</category>
-        <category>新闻</category>
+          
+          <category> 区块链 </category>
+          
+          <category> 新闻 </category>
+          
       </categories>
-      <tags>
-        <tag>新金融</tag>
-        <tag>区块链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[hello world]]></title>
-    <url>%2F2018%2F12%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      
+      
+        <tags>
+            
+            <tag> 新金融 </tag>
+            
+            <tag> 区块链 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/2018/12/hello-world/"/>
+      <url>/2018/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
       <categories>
-        <category>Linux</category>
-        <category>Hexo</category>
-        <category>Tools</category>
-        <category>PHP</category>
+          
+          <category> Linux </category>
+          
+          <category> Hexo </category>
+          
+          <category> Tools </category>
+          
+          <category> PHP </category>
+          
       </categories>
-      <tags>
-        <tag>tag1</tag>
-        <tag>tag2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[LLDB的使用]]></title>
-    <url>%2F2018%2F06%2FLLDB%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[控制台查看所有LLDB指令，可以用$help 断点添加断点 $breakpoint set -n test $breakpoint set -n &quot;[HomeHotViewController insertItems:isUp:]&quot; b -n &quot;-[HomeViewController insertItems:isUp:]&quot; OC方法需加双引号&quot;[clasName method]&quot; 查看断点 $breakpoint list 禁用、开启某个断点 $breakpoint disable/enable 7 $breakpoint disable/enable 7.1 控制台查看禁用某个断点后的信息（含有Options: disabled）如下： 1234567(lldb) breakpoint listCurrent breakpoints:7: name = 'insertItems:isUp:', locations = 4, resolved = 4, hit count = 0 Options: disabled 7.1: where = Demo`-[HomeFigureViewController insertItems:isUp:] + 52 at HomeFigureViewController.m:360, address = 0x0000000105aede04, resolved, hit count = 0 7.2: where = Demo`-[HomeHotViewController insertItems:isUp:] + 65 at HomeHotViewController.m:204, address = 0x0000000105cdd341, resolved, hit count = 0 7.3: where = Demo`-[TopicViewController insertItems:isUp:] + 52 at TopicViewController.m:276, address = 0x0000000105d67f94, resolved, hit count = 0 7.4: where = Demo`-[lashNewsViewController insertItems:isUp:] + 55 at lashNewsViewController.m:163, address = 0x0000000105f3c787, resolved, hit count = 0 删除断点 $breakpoint delete 6/6.1 给某个方法添加断点全局含有某个方法的地方均设置断点 $breakpoint set --selector insertItems:isUp: 根据方法关键字全局设置断点 $breakpoint set -r insertItems: 给具体某个类中的方法设置断点 $breakpoint set --file HomeHotViewController.m --selector insertItems:isUp: 附加指令添加断点附加加指令 $breakpoint command add 2.1 控制台的输出如下，需要输入相应指令，结束输入DONE按回车键 12Enter your debugger command(s). Type 'DONE' to end.&gt; 查询断点附加指令 $breakpoint command list 2.1 12345(lldb) breakpoint command list 2.1Breakpoint 2.1: Breakpoint commands: po self po self.view 删除附加指令 $breakpoint command delete 2.1 查看堆栈信息 $bt $up 跳转上一步调用的方法查看信息 $down 跳转下一步调用的方法查看信息 $frame select 2 跳转到堆栈信息中的某个方法 $frame variable 查看当前方法所有变量 $thread return 回滚上一次调用的方法并return 1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253(lldb) breakpoint listCurrent breakpoints:1: name = '-[TestViewController test2]', locations = 1, resolved = 1, hit count = 1 1.1: where = Demo`-[TestViewController test2] + 30 at TestViewController.m:37, address = 0x000000010caf2cce, resolved, hit count = 1 (lldb) bt* thread #1, queue = 'com.apple.main-thread', stop reason = breakpoint 1.1 * frame #0: 0x000000010caf2cce Demo`-[TestViewController test2](self=0x00007f903dc09910, _cmd="test2") at TestViewController.m:37 frame #1: 0x000000010caf2c9e Demo`-[TestViewController test1](self=0x00007f903dc09910, _cmd="test1") at TestViewController.m:33 frame #2: 0x000000010caf2e01 Demo`-[TestViewController touchesBegan:withEvent:](self=0x00007f903dc09910, _cmd="touchesBegan:withEvent:", touches=1 element, event=0x000060000011a4c0) at TestViewController.m:52 frame #3: 0x000000010e0e07c7 UIKit`forwardTouchMethod + 340 frame #4: 0x000000010e0e0662 UIKit`-[UIResponder touchesBegan:withEvent:] + 49 frame #5: 0x000000010df28e7a UIKit`-[UIWindow _sendTouchesForEvent:] + 2052 frame #6: 0x000000010df2a821 UIKit`-[UIWindow sendEvent:] + 4086 frame #7: 0x000000010dece370 UIKit`-[UIApplication sendEvent:] + 352 frame #8: 0x000000010e80f57f UIKit`__dispatchPreprocessedEventFromEventQueue + 2796 frame #9: 0x000000010e812194 UIKit`__handleEventQueueInternal + 5949 frame #10: 0x0000000111bd8bb1 CoreFoundation`__CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 17 frame #11: 0x0000000111bbd4af CoreFoundation`__CFRunLoopDoSources0 + 271 frame #12: 0x0000000111bbca6f CoreFoundation`__CFRunLoopRun + 1263 frame #13: 0x0000000111bbc30b CoreFoundation`CFRunLoopRunSpecific + 635 frame #14: 0x0000000115997a73 GraphicsServices`GSEventRunModal + 62 frame #15: 0x000000010deb30b7 UIKit`UIApplicationMain + 159 frame #16: 0x000000010caf2e9f Demo`main(argc=1, argv=0x00007ffee3111090) at main.m:18 frame #17: 0x00000001110dc955 libdyld.dylib`start + 1(lldb) upframe #1: 0x000000010caf2c9e Demo`-[TestViewController test1](self=0x00007f903dc09910, _cmd="test1") at TestViewController.m:33 30 31 - (void)test1 &#123; 32 NSLog(@"%s", __func__);-&gt; 33 [4m[[0mself test2]; 34 &#125; 35 36 - (void)test2 &#123;(lldb) downframe #0: 0x000000010caf2cce Demo`-[TestViewController test2](self=0x00007f903dc09910, _cmd="test2") at TestViewController.m:37 34 &#125; 35 36 - (void)test2 &#123;-&gt; 37 [4mN[0mSLog(@"%s", __func__); 38 [self test3]; 39 &#125; 40 (lldb) frame select 2frame #2: 0x000000010caf2e01 Demo`-[TestViewController touchesBegan:withEvent:](self=0x00007f903dc09910, _cmd="touchesBegan:withEvent:", touches=1 element, event=0x000060000011a4c0) at TestViewController.m:52 49 50 - (void)touchesBegan:(NSSet&lt;UITouch *&gt; *)touches withEvent:(UIEvent *)event &#123; 51 NSLog(@"%s", __func__);-&gt; 52 [4m[[0mself test1]; 53 54 &#125; 55 (lldb) 内存断点给某个对象的属性设置断点 $watchpoint set variable p1-&gt;_name 12345(lldb) watchpoint set variable p1-&gt;_nameWatchpoint created: Watchpoint 1: addr = 0x604000037168 size = 8 state = enabled type = w declare @ '/Users/icepoint/Desktop/Demo/Demo/TestViewController.m:30' watchpoint spec = 'p1-&gt;_name' new value: 0x0000000109ab8848 更具内存地址设置断点 $watchpoint set expression 0x000060c000221528 12345678910(lldb) frame variable(TestViewController *) self = 0x00007f890bc08f00(SEL) _cmd = "viewDidLoad"(Person *) p1 = 0x000060c000221520(Person *) p2 = 0x4084d80000000000(lldb) p &amp;p1-&gt;_name(NSString **) $0 = 0x000060c000221528(lldb) watchpoint set expression 0x000060c000221528Watchpoint created: Watchpoint 1: addr = 0x60c000221528 size = 8 state = enabled type = w new value: 4418234440]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>LLDB</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[How to use PlistBuddy]]></title>
-    <url>%2F2017%2F08%2FHow-to-use-PlistBuddy%2F</url>
-    <content type="text"><![CDATA[PlistBuddy一个plist文件操作工具。记录下方便以后使用，常用以下4个方法： Add 添加 Delete 删除 Set 更新 Print 读取 … 更多方法可 --help， 以上具体使用方法如下： Add 添加一个key:code value:404 1/usr/libexec/PlistBuddy "Add :code integer 404" t1.plist 结果如下： 123Dict &#123; code = 404&#125; 添加Array，先创建一个数组变量list, 然后往list中添加数据 1234/usr/libexec/PlistBuddy "Add :list Array" t1.plist/usr/libexec/PlistBuddy "Add :list: string a1" t1.plist# 根据索引插入值/usr/libexec/PlistBuddy "Add :list:0 string a2" t1.plist 结果如下：123456Dict &#123; list = Array &#123; a2 a1 &#125;&#125; 添加Dict 12345/usr/libexec/PlistBuddy "Add :result Dict" t1.plist/usr/libexec/PlistBuddy "Add :result:name string Tom" t1.plist/usr/libexec/PlistBuddy "Add :result:age integer 18" t1.plist/usr/libexec/PlistBuddy "Add :result:list Array" t1.plist/usr/libexec/PlistBuddy "Add :result:list: string aa" t1.plist 结果如下： 123456789Dict &#123; result = Dict &#123; age = 18 list = Array &#123; aa &#125; name = Tom &#125;&#125; Delete 根据key删除 对应的value 1/usr/libexec/PlistBuddy "Delete :code" t1.plist Set 根据key更新value 1/usr/libexec/PlistBuddy "Set :code 200" 结果如下： 123Dict &#123; code = 200&#125; Print 根据key读取value 12/usr/libexec/PlistBuddy "Print" t1.plist/usr/libexec/PlistBuddy "Print :code" t1.plist 结果如下： 1234567891011121314151617# t1.plistDict &#123; result = Dict &#123; age = 18 list = Array &#123; aa &#125; name = Tom &#125; code = 200 list = Array &#123; a2 a1 &#125;&#125;# code200 Demo]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>PlistBuddy</tag>
-        <tag>shell</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Dispatch Semaphore]]></title>
-    <url>%2F2017%2F08%2FDispatch-Semaphore%2F</url>
-    <content type="text"><![CDATA[信号量 信号量（英语：Semaphore）又称为 信号量 、旗语，是一个同步对象，用于保持在0至指定最大值之间的一个计数值。当线程完成一次对该semaphore对象等待（wait）时，该计数值减1；当线程完成一次对semaphore对象释放时，计数值加1。当计数值为0时，则线程等待该semaphore对象不再能成功直至该semaphore对象变成signaled状态。semaphore对象的计数值大于0，为signaled状态；计数值等于0，为nonsignaled状态。semaphore对象适用于控制一个仅支持有限个用户的共享资源。是一种不需要使用busy waiting的一种方法。—— 维基百科 情景再现为了方便理解semaphore，找到一个经典案例：停车场问题 假设停车场只有三个车位，一开始三个车位都是空的。这时如果同时来了五辆车，看门人允许其中三辆不受阻碍的进入，然后放下车拦，剩下的车则必须在入口等待，此后来的车也都不得不在入口处等待。这时，有一辆车离开停车场，看门人得知后，打开车拦，放入一辆，如果又离开两辆，则又可以放入两辆，如此往复。 在这个停车场系统中，车位是公共资源，每辆车好比一个线程，看门人起的就是信号量的作用。 更进一步，信号量的特性如下：信号量是一个非负整数（车位数），所有通过它的线程（车辆）都会将该整数减一（通过它当然是为了使用资源），当该整数值为零时，所有试图通过它的线程都将处于等待状态。在信号量上我们定义两种操作： Wait（等待） 和 Signal（释放）。 当一个线程调用Wait（等待）操作时，它要么通过然后将信号量减一，要么一直等下去，直到信号量大于一或超时。Signal（释放）实际上是在信号量上执行加操作，对应于车辆离开停车场，该操作之所以叫做“释放”是因为加操作实际上是释放了由信号量守护的资源。 案例一当并行执行的处理更新数据时，会产生数据不一致的情况，有时程序还会异常结束。虽然使用Serial Dispatch Queue和dispatch_barrier_async函数可以避免此类问题，但有必要进行更细粒度的排他控制。例如下面这种情况，将所有数据追加到NSMutableArray中。 1234567dispatch_queue_t queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0); NSMutableArray *buffer = @[].mutableCopy; for (int i = 0; i &lt; 100; i++) &#123; dispatch_async(queue, ^&#123; [buffer addObject:@(i)]; &#125;); &#125; 因为此段代码使用Global Dispatch Queue更新NSMutableArray类对象，所以执行后由于内存错误导致程序异常结束的概率很高。此时应使用Dispatch Semaphore。 semaphore 相关函数 dispatch_semaphore_create 创建一个信号的总量 参数是一个整数，表示初始值 dispatch_semaphore_signal 发送一个信号，使信号总量+1 dispatch_semaphore_wait 等待一个信号，使信号总量-1，当信号总量&lt;0时，会一直等待阻塞线程，直到信号量再次大于0的时候再执行 在前面的代码片段中使用Dispatch Semaphore看看。 12345678910dispatch_queue_t queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0); dispatch_semaphore_t dsema = dispatch_semaphore_create(1); NSMutableArray *buffer = @[].mutableCopy; for (int i = 0; i &lt; 100; i++) &#123; dispatch_async(queue, ^&#123; dispatch_semaphore_wait(dsema, DISPATCH_TIME_FOREVER); [buffer addObject:@(i)]; dispatch_semaphore_signal(dsema); &#125;); &#125; 案例二改变某个变量值 123456789101112dispatch_queue_t queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0); dispatch_semaphore_t dsema = dispatch_semaphore_create(1); __block int sum = 1000; for (int i = 0; i &lt; 10; i++) &#123; dispatch_async(queue, ^&#123; dispatch_semaphore_wait(dsema, DISPATCH_TIME_FOREVER); int value = arc4random()%4 + 5; NSLog(@"%d-%d = %d",sum,value, sum-value); sum=sum-value; dispatch_semaphore_signal(dsema); &#125;); &#125; 根据打印的日志看看效果 未使用信号量操作 123456789102017-08-15 16:04:36.623 RTDispatchQueue[90207:16910625] 1000-7 = 9932017-08-15 16:04:36.623 RTDispatchQueue[90207:16910640] 1000-5 = 9952017-08-15 16:04:36.623 RTDispatchQueue[90207:16910626] 1000-6 = 9942017-08-15 16:04:36.623 RTDispatchQueue[90207:16910628] 1000-5 = 9952017-08-15 16:04:36.623 RTDispatchQueue[90207:16910711] 1000-7 = 9932017-08-15 16:04:36.623 RTDispatchQueue[90207:16910713] 1000-7 = 9932017-08-15 16:04:36.623 RTDispatchQueue[90207:16910712] 1000-7 = 9932017-08-15 16:04:36.623 RTDispatchQueue[90207:16910714] 1000-6 = 9942017-08-15 16:04:36.623 RTDispatchQueue[90207:16910625] 993-7 = 9862017-08-15 16:04:36.623 RTDispatchQueue[90207:16910715] 993-5 = 988 使用信号量操作 123456789102017-08-15 16:04:07.994 RTDispatchQueue[90159:16908711] 1000-6 = 9942017-08-15 16:04:07.995 RTDispatchQueue[90159:16908695] 994-5 = 9892017-08-15 16:04:07.995 RTDispatchQueue[90159:16908697] 989-7 = 9822017-08-15 16:04:07.995 RTDispatchQueue[90159:16908694] 982-5 = 9772017-08-15 16:04:07.995 RTDispatchQueue[90159:16908962] 977-8 = 9692017-08-15 16:04:07.995 RTDispatchQueue[90159:16908963] 969-6 = 9632017-08-15 16:04:07.996 RTDispatchQueue[90159:16908964] 963-6 = 9572017-08-15 16:04:07.996 RTDispatchQueue[90159:16908965] 957-6 = 9512017-08-15 16:04:07.996 RTDispatchQueue[90159:16908711] 951-8 = 9432017-08-15 16:04:07.996 RTDispatchQueue[90159:16908966] 943-8 = 935 案例三顺序执行task 12345678910111213NSLog(@"start");dispatch_semaphore_t dsema = dispatch_semaphore_create(0);dispatch_queue_t queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0);dispatch_async(queue, ^&#123; for (int i = 0; i &lt; 5; i++) &#123; sleep(1); NSLog(@"process: %d", i); &#125; dispatch_semaphore_signal(dsema);&#125;);NSLog(@"wait...");NSLog(@"--&gt;%ld", dispatch_semaphore_wait(dsema, DISPATCH_TIME_FOREVER));NSLog(@"finish."); 打印日志如下： 1234567892017-08-16 11:04:58.401 RTDispatchQueue[8269:383018] start2017-08-16 11:04:58.401 RTDispatchQueue[8269:383018] wait...2017-08-16 11:05:00.968 RTDispatchQueue[8269:383061] process: 02017-08-16 11:05:01.973 RTDispatchQueue[8269:383061] process: 12017-08-16 11:05:02.979 RTDispatchQueue[8269:383061] process: 22017-08-16 11:05:03.985 RTDispatchQueue[8269:383061] process: 32017-08-16 11:05:04.990 RTDispatchQueue[8269:383061] process: 42017-08-16 11:05:04.991 RTDispatchQueue[8269:383018] --&gt;02017-08-16 11:05:04.991 RTDispatchQueue[8269:383018] finish. 因为信号总量是0 在执行到dispatch_semaphore_wait时 wait 使信号量-1，并不会返回结果值，「猜测：wait内部」处于等待状态（当前及后面的语句处于阻塞状态），直到触发signal，使信号量+1，继续执行wait语句及后面的语句 Reference: 维基百科-信号量 Objective-C高级编程 GCD之信号量机制]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>GCD</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Tech sites]]></title>
-    <url>%2F2017%2F08%2FTech-sites%2F</url>
-    <content type="text"><![CDATA[JavaScript Doc Linux命令大全 阿里聚安全 NSHipster]]></content>
-      <categories>
-        <category>Tech</category>
-      </categories>
-      <tags>
-        <tag>Tech</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[APNs原理及环境搭建]]></title>
-    <url>%2F2017%2F06%2FAPNs%E5%8E%9F%E7%90%86%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%2F</url>
-    <content type="text"><![CDATA[APNs推送在我们的生活中无处不在，下面就已开发者的角度来为你介绍其工作原理及如何搭建push server环境。一款APP要想收到消息推送，有一个必要前提——配置推送证书。这里不在介绍如何配置推送证书。 原理server下发消息给APPProvider将消息推送给APNs，APNs将消息推送给Device，Device再将消息通知给APP。 推送原理推送的前提是Device需向APNs发起注册注册，注册成功后APNs下发一个deviceToken给APP，APP再将其发送给Provider，当有要被推送的消息时，Provider会将消息结合deviceToken按指定的消息格式打包发送给APNs，然后由APNs推送给Device。 deviceToken生成 Device向APNs注册远程推送服务 APNs经过内部流程处理生成一个deviceToken，下发给Device Device将获取到的deviceToken发送给Provider 推送过程 APP链接APNs的过程中，APNs会验证deviceToken，链接成功后会维持一个TCP长连接 Provider将消息结合deviceToken封包发送给APNs APNs将接收到的消息发送给deviceToken设备 设备再将收到的消息通知给APP server搭建合成PEM证书命令行： 生成公钥 1openssl x509 -in aps_development.cer -inform der -out PushPublicCert.pem 生成私钥 1openssl pkcs12 -nocerts -out PushPrivateKey.pem -in Push.p12 将刚才生成的两个pem文件合成到一个文件中 1cat PushPublicCert.pem PushPrivateKey.pem &gt; ck.pem 测试证书是否正常工作 1telnet gateway.sandbox.push.apple.com 2195 利用SSL证书和私钥来设置一个安全的链接去链接苹果服务器 1openssl s_client -connect gateway.sandbox.push.apple.com:2195 -cert PushPublicCert.pem -key PushPrivateKey.pem 1openssl s_client -connect api.push.apple.com:443 -cert PushPublicCert.pem -key PushPrivateKey.pem server code旧：开发环境：gateway.sandbox.push.apple.com:2195发布环境：gateway.push.apple.com:2195 新：开发环境：api.development.push.apple.com:443发布环境：api.push.apple.com:443 Download_APNsProject 结语以前仅知道原理，至于服务端如何与苹果服务器通信没有一点概念。于是利用闲暇时间翻阅资料写了篇关于APNs如何在服务端发送。争取不做口头的巨人行动的矮子（初中的时候班主任就时刻告诉我们这句话，现在基本上抛之脑后 冷汗！冷汗！）。目前只是整理了基于SSL协议的TCP长连接流通讯，HTTP/2后续会整理出来。 Reference AppleDoc——APNs]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>APNs</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[周刊◆第二期]]></title>
-    <url>%2F2017%2F06%2F%E5%91%A8%E5%88%8A%E2%97%86%E7%AC%AC%E4%BA%8C%E6%9C%9F%2F</url>
-    <content type="text"><![CDATA[推荐技术文章 开源IM工程“蘑菇街TeamTalk”的现状：一场有始无终的开源秀 TeamTalk 之 Mac 客户端架构分析 新版TeamTalk部署教程 来自蘑菇街的开源IM：TeamTalk mac TeamTalk开发点点滴滴之一——DDLogic框架分解 - 刀哥的技术随笔 iOS面试题大全-点亮你iOS技能树 如何自己动手实现 KVO 手把手教你做iOS推送 自己动手搭建苹果推送Push服务器]]></content>
-      <categories>
-        <category>开发周刊</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[周刊◆第一期]]></title>
-    <url>%2F2017%2F05%2F%E5%91%A8%E5%88%8A%E2%97%86%E7%AC%AC%E4%B8%80%E6%9C%9F%2F</url>
-    <content type="text"><![CDATA[推荐技术文章 iOS端一次视频全屏需求的实现 即时通讯音视频开发（一）：视频编解码之理论概述 iOS端一次视频全屏需求的实现 从直播CDN的原理说起,谈如何解决延时和连麦的老难题? 为什么CDN对移动客户端加速“没有”效果 iOS-直播开发(开发从底层做起) 移动直播技术秒开优化经验 Keychain介绍]]></content>
-      <categories>
-        <category>开发周刊</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[随笔之Hexo升级之路]]></title>
-    <url>%2F2016%2F07%2F%E9%9A%8F%E7%AC%94%E4%B9%8BHexo%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF%2F</url>
-    <content type="text"><![CDATA[随笔 Hexo 升级最近在将hexo升级到6.2.0的过生成中遇到了一些小问题，虽然正常功能都能使用，但在你debug的时候终端上跳出那么几个扎眼的颜色总是不是那么狠舒服。对于我这种完美主义者必然要将其抹杀。 0x00 nodejs中文网 http://nodejs.cn/ 升级 node至v6.2.0 npm update 更新 node_modules 这个比较手贱 没更新相关组件而是更新了所有的123&gt; &#123; [Error: Cannot find module &apos;./build/default/DTraceProviderBindings&apos;] code: &apos;MODULE_NOT_FOUND&apos; &#125;&gt; &#123; [Error: Cannot find module &apos;./build/Debug/DTraceProviderBindings&apos;] code: &apos;MODULE_NOT_FOUND&apos; &#125;&gt; npm install hexo --no-optional不好使 更换npm淘宝镜像:https://npm.taobao.org 解决方案：https://github.com/trentm/node-bunyan/issues/216 ERROR Plugin load failed: hexo-renderer-sass 移除此模块，用cnpm指令重新安装http://www.rockcoding.com/2016/03/02/hexo/https://chenyiqiao.gitbooks.io/documentation_for_npm/content/install_packages.html]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[iOS开发之正则入门]]></title>
-    <url>%2F2016%2F07%2FiOS%E5%BC%80%E5%8F%91%E4%B9%8B%E6%AD%A3%E5%88%99%E5%85%A5%E9%97%A8%2F</url>
-    <content type="text"><![CDATA[语法 &#39;^&#39; 、&#39;$&#39; 分别表示匹配字符串的开始和结束 eg: &quot;^one&quot; 以one开头的字符串 eg: &quot;two$&quot; 以two结尾的字符串 eg: &quot;^apple$&quot; 以apple开头和结尾的字符串 eg: &quot;banana&quot; 表示包含banana的字符串 &#39;*&#39;、&#39;+&#39;、&#39;?&#39; 分别表示[0, +∞), [1, +∞), [0,1] eg: &quot;ab*&quot; 字符串中有一个a其后跟着零或多个b eg: &quot;ab+&quot; 字符串中有一个a其后跟着一或多个b eg: &quot;ab?&quot; 字符串中有一个a其后跟着零或多个b eg: &quot;a?b+$&quot; 字符串中的结尾最多有一个a且其后跟着至少有一个b &#39;{}&#39; 表示一个重复的范围 eg: &quot;ab{4}&quot; 字符串中有一个a其后跟着4个b eg: &quot;ab{1,}&quot; 字符串中有一个a其后跟着至少一个b eg: &quot;ab{3,4}&quot; 字符串中有一个a其后跟着3到4个b PS: &#39;*&#39; === {0, +∞} &#39;+&#39; === {1, +∞} &#39;?&#39; === {0, 1} &#39;|&#39; 表示或 eg: &quot;a|b&quot; 字符串中存在a或b，两者不能同时存在 eg: &quot;(a|bcd)ef&quot; 表示”aef”或”bcdef” eg: &quot;(a|b)*c&quot; 字符串中混有零或多个a b，紧跟c &#39;[]&#39; 表示方括号内选择1-N个符合语法的字符有且仅选一个 eg: &quot;[ab]&quot; 字符串中有一个a或b === “a|b” eg: &quot;[a-d]&quot; 字符串中含有一个a到d的字母 eg: &quot;^[a-zA-Z]&quot; 字符串已字母开头 eg: &quot;[0-9]a&quot; 字母a的前面含有一个数字 eg: &quot;[a-zA-Z0-9]$&quot; 字符串以一个字母数字结束 &#39;.&#39; 表示匹配除换行（\r\n）之外的单个字符 eg: &quot;a.[a-z]&quot; 字符串中有一个a后面跟着一个任意字符和一个小写字母 eg: &quot;^.{5}$&quot; 任意一个长度为5的字符串 &#39;\num&#39; 表示&quot;\num&quot;之前的字符重复的个数，其中num表示一个正整数， eg: &quot;(.)|1&quot; 2个连续的相同字符??? eg: &quot;10\{1,2}&quot; 数字1后面跟着1或2个0 eg: &quot;0\{3,}&quot; 数字0后面跟着3或更多的0 [^x] 表示不期望出现的一个字符(x) eg: &quot;@[^a-zA-Z]@&quot; 两个@中不希望出现字母 &#39;\d&#39; 匹配一个数字字符 === [0-9] &#39;\D&#39; 匹配一个非数字字符 === [^0-9] &#39;\w&#39; 匹配字母数字下划线 === [a-zA-Z0-9_] &#39;\W&#39; 匹配非字母数字下划线汉字 Reference http://www.admin10000.com/document/5944.html]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>正则</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[iOS8 App Groups 数据共享]]></title>
-    <url>%2F2016%2F04%2FiOS8-App-Groups-%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%2F</url>
-    <content type="text"><![CDATA[一般情况下，APP之间很难直接通信，即便是AppExtension 与host App 之间也不能直接通信。事无绝对，APP之间的数据共享有2种方法： KeyChain App Groups 下面我们就讲讲如何通过App Groups这个功能进行APP之间通信的。 Step 1 创建一个工程用Xcode创建Single View Application下的一个工程，工程名是CBAppGroupSimeple。如图： Step 2 添加AppGroup进入Target，选择Capabilities -&gt; App Groups（使用此功能的前提是具备开发者账号）。接下来，点击+添加一个唯一标识，例如：group.xxx.xxx，然后勾上左侧的复选框。如图： 图一： &lt;img src=”http://7pn4xs.com1.z0.glb.clouddn.com/%E6%88%AA%E5%9B%BE%202016-04-15%2011%E6%97%B645%E5%88%8607%E7%A7%92.png&quot;, width=600 alt=”选择开发者账号”/&gt; 图二： &lt;img src=”http://7pn4xs.com1.z0.glb.clouddn.com/%E6%88%AA%E5%9B%BE%202016-04-15%2011%E6%97%B647%E5%88%8610%E7%A7%92.png&quot;, width=400 alt=”添加group”/&gt; Step 3 共享数据在实现此功能前，我们先简单布局一下UI。往Storyboard上添加一个UITextField和一个UIButton。给UIButton添加一个点击事件saveAction:。具体代码如下： 1234567- (IBAction)saveAction:(id)sender&#123; NSUserDefaults *userDefaults = [[NSUserDefaults alloc] initWithSuiteName:@"group.colabean.simeple.appgroup"]; [userDefaults setObject:self.inputTextField.text forKey:@"kCBSharedData"]; &#125; Run一下工程，输入一些数据，点击Save按钮。 Step 4 获取共享的数据我们重复Step 1，Step 2，创建另一个Simple，工程名是CBAppGroupOtherSimple，添加AppGroup并将上一个工程中创建的唯一标识（group.colabean.simeple.appgroup）勾上。 在我们的viewDidLoad:中获取共享的数据，代码如下： 1234567- (void)viewDidLoad &#123; [super viewDidLoad]; // Do any additional setup after loading the view, typically from a nib. NSUserDefaults *userDefaults = [[NSUserDefaults alloc] initWithSuiteName:@"group.colabean.simeple.appgroup"]; NSString *content = [userDefaults objectForKey:@"kCBSharedData"]; NSLog(@"shared data: %@", content);&#125; Run一下工程，将会立即获取到从CBAppGroupSimple工程中共享的数据。如图： 就是这么简单任性。 DownLoadSimple Reference http://www.theappguruz.com/blog/ios8-app-groups]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>AppGroups</tag>
-        <tag>Tutorial</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[译：实现Twitter UI效果]]></title>
-    <url>%2F2016%2F03%2F%E5%AE%9E%E7%8E%B0Twitter-UI%E6%95%88%E6%9E%9C%2F</url>
-    <content type="text"><![CDATA[在使用Twitter的APP后，我已开发者的视觉并注意到整体与部分之间相互协调是件极其有意思的事情。这引起了我的好奇心：这是怎么做到的？ 让我们具体地讨论下这个视图布局：此效果不优雅吗？它看起开就像本应如此，但你仔细的观察后就会发现更多。随着Scrollview的偏移，图层的覆盖，动作和比例缩放是那么的平滑连贯… … 实在是太喜欢这个效果了。 So，就让我们立刻实现这个效果吧。 首先，先看下最终效果： 结构描述 在写代码之前，我想给你一个关于如何构建UI的简单意见。 打开Main.storyboard文件，在这个控制器里面你会发现2个主要的对象。第一个是一个呈现Header的视图，第二个是Scrollview，它包含了Avatar和账号相关的其他信息，如：username标签和Follow按钮。还有一个被叫做Sizer的视图，它是为了确保Scrollview拥有足够大的垂直滑动的空间。 就像你看到的那样，这个结构非常的简单。稍微注意一下就可发现Header的外部放置了一个Scrollview，而不是与其他元素放置在一起。虽然没必严格如此，但这样会使它的结构变动更加灵活。 编码 如果你仔细的看了最后的动画，将会注意到你要管理2个不同的动作： 向下拉（当Scrollview已经停靠在屏幕的顶部的时候） 上下滑动 第二个动作可以细分为4个小步骤： 向上滑动，一直到导航条默认的大小并停靠在屏幕的顶部。 向上滑动，Avatar开始逐渐变小。 当Header被固定后，Avatar会移动到它的下边。 当username标签抵达Header的顶部时，一个新的白色Label将会从Header中心的底部展现。这时Header的背景图片将会用高斯模糊渲染。 打开ViewController让我们一个一个的实现这些步骤。 构建管理者 首先要做的事情很明显，就是获取关于Scrollview的偏移量offset。我们可以通过UIScrollViewDelegate协议实现scrollViewDidScroll方法。 在一个View上执行最简单地动画方式是使用Core Animation逐渐的进行三维变换，并给layer.transform赋予新值。 关于Core Animation可以参考这篇文章 http://www.thinkandbuild.it/playing-around-with-core-graphics-core-animation-and-touch-events-part-1/ 这些是scrollViewDidScroll:方法的第一部分 123CGFloat offset = scrollView.contentOffset.y;CATransform3D avatarTransform = CATransform3DIdentity;CATransform3D headerTransform = CATransform3DIdentity; 在这里我们获取一个当前垂直偏移量offset，并初始化2个CATransform3D变量。 下拉 下拉动作的管理：12345678if (offset &lt; 0) &#123; CGFloat headerScaleFactor = -(offset) / header.bounds.size.height; CGFloat headerSizevariation = (header.bounds.size.height * (1.0 + headerScaleFactor) - header.bounds.size.height) / 2.0; headerTransform = CATransform3DTranslate(headerTransform, 0, headerSizevariation, 0); headerTransform = CATransform3DScale(headerTransform, 1.0 + headerScaleFactor, 1.0 + headerScaleFactor, 0); header.layer.transform = headerTransform; &#125; 首先，我们检查offset是否为负数：用户在下拉的过程中，将会进入Scrollview的弹性区域。 剩下的代码就是简单的数学逻辑。 Header的扩大是因为它的上边缘固定于屏幕的顶部，而底部的图片在等比缩放。 the transformation is made by scaling and subsequently translating to the top for a value equal to the size variation of the view.实际上，移动ImageView图层的中点到顶部并同时缩放它，你可以获得相同的效果。 headerScaleFactor是用来被计算的一部分。我们想用offset适当的对Header进行缩放。换句话说，当offset是Header高度的2倍时，headerScaleFactor必须是2.0。 我们需要管理的第二个动作是上下滑动。让我们看看，如何一步步通过UI的主要元素完成变换的。 头部（第一阶段） 当前的offset应该大于0。Header应该随offset进行垂直变换，直到它期望的高度（我们后面将会讲解Header的高斯模糊）。 1headerTransform = CATransform3DTranslate(headerTransform, 0, MAX(-offset_HeaderStop, -offset), 0); 这句代码非常简单。我们只需定义一个让Header在此停止移动的最小值。 让我感到羞愧的是我比较懒！所以我写死了一些数值，像offset_HeaderStop。其实，我们可以通过计算UI元素的位置来获取相同的效果。下次有空再改吧。 头像 Avatar的缩放与我们处理下拉的逻辑一样，只是在这种情况下，图片是到达底部而不是顶部。这段代码和上边的比较相似，除了减小缩放的比例为1.4。 12345// Avatar -----------CGFloat avatarScaleFactor = MIN(offset_HeaderStop, offset) / avatarImage.bounds.size.height / 1.4;CGFloat avatarSizevariation = (avatarImage.bounds.size.height * (1.0 + avatarScaleFactor) - avatarImage.bounds.size.height) / 2.0;avatarTransform = CATransform3DTranslate(avatarTransform, 0, avatarSizevariation, 0);avatarTransform = CATransform3DScale(avatarTransform, 1.0-avatarScaleFactor, 1.0-avatarScaleFactor, 0); 就像你看到的，当Header停止变化时，我们用MIN函数来使Avatar的缩放停止。 此时，我们根据当前offset设置最顶层的图层。除非offset小于等于offset_HeaderStop，最顶层的图层是Avatar，否则是Header。 12345678910if (offset &lt;= offset_HeaderStop) &#123; if (avatarImage.layer.zPosition &lt; header.layer.zPosition) &#123; header.layer.zPosition = 0; &#125; &#125; else &#123; if (avatarImage.layer.zPosition &gt;= header.layer.zPosition) &#123; header.layer.zPosition = 2; &#125; &#125; &#125; 白色Label 这段代码是白色Label的动画： 123// ------------ LabelCATransform3D labelTransform = CATransform3DMakeTranslation(0, MAX(-distance_W_LabelHeader, offset_B_LabelHeader - offset), 0);headerLabel.layer.transform = labelTransform; 这里有2个令我感到羞愧的变量值：当offset等于offset_B_LabelHeader时，黑色的username标签刚到触碰到Header的底部。 distance_W_LabelHeader是Header底部与白色Label终点之间的距离。 这个变换是通过此逻辑计算：黑色Label触碰到Header，白色Label就会立即出现，并且到达Header中点位置就停止移动。所以我们使用下面代码创建Y值： 1MAX(-distance_W_LabelHeader, offset_B_LabelHeader - offset) 高斯模糊 最后一个效果是Header的模糊。为了得到合适的解决方案，我用了3个不同的库… … 我也尝试过用OpenGL ES创建基类，但实时更新模糊总是非常缓慢。 然后我意识到我可以对模糊仅仅计算一次，将不模糊和模糊的图片进行重叠，只是改变alpha值。我非常确信，Twitter就是这样做的。 在viewDidAppear中，我们计算Header的模糊值并隐藏它，设置alpha值为0。 1234567// Header - Blurred ImageheaderBlurImageView = [[UIImageView alloc] initWithFrame:header.bounds];headerBlurImageView.image = [[UIImage imageNamed:@"header_bg"] blurredImageWithRadius:10 iterations:20 tintColor:[UIColor clearColor]];headerBlurImageView.contentMode = UIViewContentModeScaleAspectFill;headerBlurImageView.alpha = 0.0;[header insertSubview:headerBlurImageView belowSubview:headerLabel];header.clipsToBounds = YES; 模糊视图是用过FXBlurView实现的。 在scrollViewDidScroll:方法中，我们只需根据offset设置alpha: 12// ------------ BlurheaderBlurImageView.alpha = MIN(1.0, (offset - offset_B_LabelHeader) / distance_W_LabelHeader); 这个计算的背后逻辑是：alpha最大值是1，当黑色Label触碰到Header时模糊效果开始出现，当白色到达最终位置时，也将停止继续模糊。 就这样！ 我希望你喜欢这个教程。学习如何重现这种很棒的动画效果对我来说是很大的乐趣。 Swift代码：Download SourceOC代码: Download Source 原版：IMPLEMENTING THE TWITTER IOS APP UI]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>Tutorial</tag>
-        <tag>iOS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[ColaBean's new Blog]]></title>
-    <url>%2F2016%2F03%2Fcolabean's-new-blog%2F</url>
-    <content type="text"><![CDATA[这是ColaBen新部署的blog，之前用的是Octopress，由于发布文章的指令过于繁琐，时间长了容易遗忘，不是很好用。在大神的推荐下，开始使用Hexo写博客。刚开始也没觉得怎么样，但经过亲身实践后，果然是比Octopress用起来顺手多了。blog这东西用起来顺手就好，适合自己的才是最好的。哈哈。。。 恩…抽空在研究下Hexo，把blog从新部署下。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[即时通讯之输入流中读取基本数据]]></title>
-    <url>%2F2016%2F03%2F%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E4%B9%8B%E8%BE%93%E5%85%A5%E6%B5%81%E4%B8%AD%E8%AF%BB%E5%8F%96%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%2F</url>
-    <content type="text"><![CDATA[相应的和写入一样，下面将读取的接口陈列如下： 读取 1 byte 1234567- (int8_t)readChar;&#123; int8_t v; [data getBytes:&amp;v range:NSMakeRange(len, 1)]; len++; return (v &amp; 0x0FF);&#125; 读取 2 byte 123456789- (int16_t)readShort;&#123; int32_t ch1 = [self read]; int32_t ch2 = [self read]; if ((ch1 | ch2) &lt; 0) &#123; @throw [NSException exceptionWithName:@"Exception" reason:@"EOFException" userInfo:nil]; &#125; return (int16_t)((ch1 &lt;&lt; 8) + (ch2 &lt;&lt; 0));&#125; 读取 4 byte 1234567891011- (int32_t)readInt;&#123; int32_t ch1 = [self read]; int32_t ch2 = [self read]; int32_t ch3 = [self read]; int32_t ch4 = [self read]; if ((ch1 | ch2 | ch3 | ch4) &lt; 0)&#123; @throw [NSException exceptionWithName:@"Exception" reason:@"EOFException" userInfo:nil]; &#125; return ((ch1 &lt;&lt; 24) + (ch2 &lt;&lt; 16) + (ch3 &lt;&lt; 8) + (ch4 &lt;&lt; 0));&#125; 读取 8 byte 123456789101112131415- (int64_t)readLong;&#123; int8_t ch[8]; [data getBytes:&amp;ch range:NSMakeRange(len,8)]; len += 8; return (((int64_t)ch[0] &lt;&lt; 56) + ((int64_t)(ch[1] &amp; 255) &lt;&lt; 48) + ((int64_t)(ch[2] &amp; 255) &lt;&lt; 40) + ((int64_t)(ch[3] &amp; 255) &lt;&lt; 32) + ((int64_t)(ch[4] &amp; 255) &lt;&lt; 24) + ((ch[5] &amp; 255) &lt;&lt; 16) + ((ch[6] &amp; 255) &lt;&lt; 8) + ((ch[7] &amp; 255) &lt;&lt; 0));&#125; BCD时钟转换 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960- (BDSTime)readBCDTime&#123; struct BDSTime bcdTime; Byte year[2]; Byte month[1], day[1], hour[1], min[1], sec[1]; [data getBytes:&amp;year range:NSMakeRange(len, sizeof(year))]; len += sizeof(year); [data getBytes:&amp;month range:NSMakeRange(len, sizeof(month))]; len += sizeof(month); [data getBytes:&amp;day range:NSMakeRange(len, sizeof(day))]; len += sizeof(day); [data getBytes:&amp;hour range:NSMakeRange(len, sizeof(hour))]; len += sizeof(hour); [data getBytes:&amp;min range:NSMakeRange(len, sizeof(min))]; len += sizeof(min); [data getBytes:&amp;sec range:NSMakeRange(len, sizeof(sec))]; len += sizeof(sec); bcdTime.year = [self readBCDToYear:year]; bcdTime.month = bcdToInt(month, sizeof(month)); bcdTime.day = bcdToInt(day, sizeof(day)); bcdTime.hour = bcdToInt(hour, sizeof(hour)); bcdTime.min = bcdToInt(min, sizeof(min)); bcdTime.sec = bcdToInt(sec, sizeof(sec)); return bcdTime;&#125;///bcd转intunsigned int bcdToInt(const unsigned char *bcd, int length)&#123; int tmp; unsigned int dec = 0; for(int i = 0; i &lt; length; i++) &#123; tmp = ((bcd[i] &gt;&gt; 4) &amp; 0x0F) * 10 + (bcd[i] &amp; 0x0F); dec += tmp * pow(100, length - 1 - i); &#125; return dec;&#125;- (int16_t)readBCDToYear:(Byte *)dt&#123; Byte *year = dt; Byte y_high = year[0]; Byte y_low = year[1]; int16_t high = bcdToInt(&amp;y_high, sizeof(y_high)); int16_t low = bcdToInt(&amp;y_low, sizeof(y_low)); return high*100+low;&#125;]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>解码</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[即时通讯之基本数据写入到输出流中]]></title>
-    <url>%2F2016%2F03%2F%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E4%B9%8B%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E5%86%99%E5%85%A5%E5%88%B0%E8%BE%93%E5%87%BA%E6%B5%81%E4%B8%AD%2F</url>
-    <content type="text"><![CDATA[在做IM或蓝牙传输的项目中，难免会有这样那样的数据转码的情况，下面就将我在项目中用到的一些转换接口总结一下，将其陈列出来，希望能够帮助后来者。 将 1 byte 数值写入输出流中， 先写入高位 1234567- (void)writeChar:(int8_t)v;&#123; int8_t ch[1]; ch[0] = (v &amp; 0x0FF); [data appendBytes:ch length:sizeof(ch)]; len++;&#125; 将 2 byte 数值写入输出流中， 先写入高位 12345678- (void)writeShort:(int16_t)v;&#123; int8_t ch[2]; ch[0] = (v &amp; 0x0FF00) &gt;&gt; 8; ch[1] = (v &amp; 0x0FF); [data appendBytes:ch length:sizeof(ch)]; len += sizeof(ch);&#125; 将 4 byte 数值写入输出流中， 先写入高位 123456789- (void)writeInt:(int32_t)v;&#123; int8_t ch[4]; for (int32_t i = 0; i &lt; sizeof(ch); i++) &#123; ch[i] = ((v &gt;&gt; ((3-i) * 8)) &amp; 0x0FF); &#125; [data appendBytes:ch length:sizeof(ch)]; len += sizeof(ch);&#125; 将 8 byte 数值写入输出流中， 先写入高位 123456789- (void)writeLong:(int64_t)v;&#123; int8_t ch[8]; for (int32_t i = 0; i &lt; sizeof(ch); i++) &#123; ch[i] = ((v &gt;&gt; ((7-i) * 8)) &amp; 0x0FF); &#125; [data appendBytes:ch length:sizeof(ch)]; len += sizeof(ch);&#125; 将 BCD时钟 写入输出流中 1234567891011121314151617181920212223242526272829303132333435363738394041424344- (Byte)int_toBCD:(unsigned int)v&#123; Byte d1 = v / 10; Byte d2 = v % 10; Byte d = (d1 &lt;&lt; 4) | d2; return d;&#125;- (void)writeBCDTime:(BDSTime *)time;&#123; //write year [self writeYearBCDTime:time -&gt; year]; //write month [self writeOtherBCDTime:time -&gt; month]; //write day [self writeOtherBCDTime:time -&gt; day]; //write hour [self writeOtherBCDTime:time -&gt; hour]; //write min [self writeOtherBCDTime:time -&gt; min]; //write sec [self writeOtherBCDTime:time -&gt; sec];&#125;- (void)writeYearBCDTime:(int16_t)v&#123; unsigned int high, low; high = v / 100; low = v % 100; int8_t ch[2]; ch[0] = int_toBCD(high); ch[1] = int_toBCD(low); [data appendBytes:ch length:sizeof(ch)]; len += sizeof(ch);&#125;- (void)writeOtherBCDTime:(int8_t)v&#123; int8_t ch[1]; ch[0] = int_toBCD(v); [data appendBytes:ch length:sizeof(ch)]; len += sizeof(ch);&#125; 下载地址：BDWRDataDemo]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>编码</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[关于字体适配的那些事]]></title>
-    <url>%2F2016%2F01%2F%E5%85%B3%E4%BA%8E%E5%AD%97%E4%BD%93%E9%80%82%E9%85%8D%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%2F</url>
-    <content type="text"><![CDATA[前言之前做过很多项目都没考虑过字体适配问题。相信绝大多数人在做项目时，都没仔细去考虑这件事。一般都是根据UI出的图做个估算，有耐心的估计会自己拿工具测量下。如今，考虑到iPhone机型的多样性，UI设计师不可能针对每一款iPhone的屏幕出一套UI图。一般而言，都是基于5s的标准出UI。当我们在设置字体时，往往都是基于UI并且针对不同的屏幕字体也都是绝对的。那么问题来了，细心的同学可能会注意到，相同大小的字体在5s或6上也许差别不大，但在6p上字体有缩小的现象，其原因由分辨率导致。 在6出来不久，曾看过有关适配的文章，其中关于iPhone尺寸规格如下： 设备 宽 高 对角线 逻辑分辨率 scale Factor 设备分辨率 PPI 3GS 2.4inch 4.5inch 3.5inch 320x480 @1x 320x480 163 4(s) 2.31inch 4.5inch 3.5inch 320x480 @2x 640x960 326 5c 2.33inch 4.90inch 4inch 320x568 @2x 640x1136 326 5(s) 2.31inch 4.87inch 4inch 320x568 @2x 640x1136 326 6 2.64inch 5.44inch 4.7inch 375x667 @2x 750x1334 326 6p 3.06inch 6.22inch 5.5inch 414x736 @3x 1242x2208 401 从iPhone3GS/iPhone4(s)过渡到iPhone5(s)时，在逻辑上宽度不变高度稍高，之前旧的素材和布局通过AutoresizingFlexible简单适配即可运行得很好，但由于高宽比增大，上下两端出现黑粗边（典型如LaunchImage）。从分辨率的角度来看，除了需要提供LaunchImage这种满屏图，其他基本沿用二倍图（@2x）；从屏幕尺寸角度来看，需要对纵向排版略加调整。 从iPhone5(s)发展到iPhone6(+)，由于高宽比保持不变，iOS对图标、图片、字体进行等比放大自适应，清晰度会有所降低。同时，绝对坐标布局会导致在大屏下出现偏左偏上的问题。从分辨率的角度来看，iPhone6沿用二倍图（@2x），但需为iPhone6+提供更高的三倍图（@3x）；从屏幕尺寸角度来看，需要重新对UI元素尺寸和布局进行适配，以期视觉协调。 字体适配以上属于科普类的东西，下面来点实际的。 关于字体适配有2种方案。 方案一：设置一个大小区域范围，比如10~30pointSize的范围(pointSize为UIFont的一个CGFloat类型的属性)，然后for循环降序遍历此范围设置一个临时的UIFont变量，根据此变量计算当前文本的大小，与当前UILabel的height作比较找出合适的字体。 123456789101112131415161718192021#define ADAPTIVE__FONT_SIZE_MINIMUM_VALUE 20#define ADAPTIVE_FONT_SIZE_MAXIMUM_VALUE 30-(UIFont *) adjustFontSizeToFillItsContents&#123; NSString* text = self.text; for (int i = ADAPTIVE_FONT_SIZE_MAXIMUM_VALUE; i&gt;ADAPTIVE__FONT_SIZE_MINIMUM_VALUE; i--) &#123; UIFont *font = [UIFont fontWithName:self.font.fontName size:(CGFloat)i]; NSAttributedString *attributedText = [[NSAttributedString alloc] initWithString:text attributes:@&#123;NSFontAttributeName: font&#125;]; CGRect rectSize = [attributedText boundingRectWithSize:CGSizeMake(self.frame.size.width, CGFLOAT_MAX) options:NSStringDrawingUsesLineFragmentOrigin context:nil]; if (rectSize.size.height &lt;= self.frame.size.height) &#123; return [UIFont fontWithName:self.font.fontName size:(CGFloat)i]; break; &#125; &#125; return self.font;&#125; 方案二：计算出一个scale重新设置UIFont，伪代码如下： 1234CGFloat scale = ([UIScreen mainScreen].bounds.size.width / 320);NSLog(@"before : %.1f", [font pointSize]);font = [UIFont fontWithName:[font fontName] size:fontSize * scale];NSLog(@"after : %.1f", [font pointSize]); 既然需要重新设置UIFont，那么我们不可避免的要hook下UIFont的类方法fontWithName:size:做个函数交换的处理。函数的交换我们需要用到runtime机制。 12345678void bd_exchageClassMethod(Class aClass, SEL oldSEL, SEL newSEL)&#123; Method oldClsMethod = class_getClassMethod(aClass, oldSEL); assert(oldClsMethod); Method newClsMethod = class_getClassMethod(aClass, newSEL); assert(newClsMethod); method_exchangeImplementations(oldClsMethod, newClsMethod);&#125; 然后，我们给UIFont创建一个Categroy文件，文件名为AdaptiveFont。在实现文件代码如下： 12345678910111213141516171819@implementation UIFont (AdaptiveFont)+ (void)hook&#123; bd_exchageClassMethod([UIFont class], @selector(fontWithName:size:), @selector(hook_fontWithName:size:));&#125;+ (UIFont *)hook_fontWithName:(NSString *)fontName size:(CGFloat)fontSize&#123; NSLog(@"before : %.1f", fontSize); CGFloat scale = ([UIScreen mainScreen].bounds.size.width / 320); NSLog(@"scale : %f", scale); UIFont *font = [self hook_fontWithName:fontName size:fontSize * scale]; NSLog(@"after : %.1f", [font pointSize]); printf("&lt;---------------------&gt;\n"); return font;&#125;@end 接口文件暴漏相关方法如下： 123456@interface UIFont (AdaptiveFont)+ (void)hook;+ (UIFont *)hook_fontWithName:(NSString *)fontName size:(CGFloat)fontSize;@end 相对比较而言，我还是倾向于方法二。方法一的前提条件是height要适配好，不能是绝对值，否效果。当然，方法二也一样，只不过height若是绝对值，会出现文字显示不全的问题。在用法上，方法一只需调用adjustFontSizeToFillItsContents，而方法二需在application:didFinishLaunchingWithOptions:函数调用下hook。 当然，这并不是最终也不是最好的适配方案。个人觉得根据PPI适配字体，限于经历有限只能研究到这。欢迎纠错，有什么好的字体适配方案也可以在下方评论进行探讨。 Demo地址：AdaptiveFontDemo]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>UIFont</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[iOS开发之Quartz2D生成PDF-Part2]]></title>
-    <url>%2F2015%2F08%2FiOS%E5%BC%80%E5%8F%91%E4%B9%8BQuartz2D%E7%94%9F%E6%88%90PDF-Part2%2F</url>
-    <content type="text"><![CDATA[在上一节当中，我们创建了一个基于Quartz2D的PDF，并在PDF中添加一线条。在这一节，主要是添加一个logo，和绘制一个table。 添加logo下载图片资源，然后添加到工程当中。 在PDFRenderer.m文件中添加下面方法： 1234//绘制图像+ (void)drawImage:(UIImage*)image inRect:(CGRect)rect &#123; [image drawInRect:rect];&#125; 在PDFRenderer.h中添加下面方法： 12+ (void)drawImage:(UIImage*)image inRect:(CGRect)rect;+ 为了能在PDF上显示此logo，在PDFRenderer.m的drawPDF方法中添加下面代码，此代码写在UIGraphicsEndPDFContext();之前： 123UIImage *logo = [UIImage imageNamed:@"ray-logo"];CGRect frame = CGRectMake(20, 100, 300, 60);[PDFRenderer drawImage:logo inRect:frame]; 在上面的代码中，创建一个UIImage对象，并定义图像的位置和大小，调用drawImage方法将两个参数传过去进行绘制。 完整代码如下： 12345678910111213141516+ (void)drawPDF:(NSString*)fileName &#123; UIGraphicsBeginPDFContextToFile(fileName, CGRectZero, nil); UIGraphicsBeginPDFPageWithInfo(CGRectMake(0, 0, 612, 792), nil); CGPoint from = CGPointMake(0, 0); CGPoint to = CGPointMake(200, 300); [PDFRenderer drawLineFromPoint:from toPoint:to]; UIImage *logo = [UIImage imageNamed:@"ray-logo"]; CGRect frame = CGRectMake(20, 100, 300, 60); [PDFRenderer drawImage:logo inRect:frame]; [self drawText]; UIGraphicsEndPDFContext();&#125; 至此了解到如何绘制清单的基本元素：文本、线条、图片。接下来将运用这些所有元素构建更为完美的布局。 绘制Labels创建一个xib，并命名为InvoiceView，选中InvoiceViewIB，设置View的width: 612 和height: 792，这些都是A4PDF的默认尺寸。下面拖拽8个UILabel，并按如下命名： Recipient [Name] Recipient’s Address Recipient’s City Recipient’s Postal Code Invoicer [Name] Invoicer’s Address Invoicer’s City Invoicer’s Postal Code 这些labels的位置将会在PDF上进行布局。给每个label从0-7设置tag。例如：Recipient的tag是0，Recipient’s Address的tag事1，以此类推。 打开PDFRenderer.m文件，并重构drawText方法。代码清单如下： 123456789101112131415161718192021222324+(void)drawText:(NSString*)textToDraw inFrame:(CGRect)frameRect &#123; CFStringRef stringRef = (__bridge CFStringRef)textToDraw; CFAttributedStringRef currentText = CFAttributedStringCreate(NULL, stringRef, NULL); CTFramesetterRef framesetter = CTFramesetterCreateWithAttributedString(currentText); CGMutablePathRef framePath = CGPathCreateMutable(); CGPathAddRect(framePath, NULL, frameRect); CFRange currentRange = CFRangeMake(0, 0); CTFrameRef frameRef = CTFramesetterCreateFrame(framesetter, currentRange, framePath, NULL); CGPathRelease(framePath); CGContextRef currentContext = UIGraphicsGetCurrentContext(); CGContextSetTextMatrix(currentContext, CGAffineTransformIdentity); CGContextTranslateCTM(currentContext, 0,100); CGContextScaleCTM(currentContext, 1.0, -1.0); CTFrameDraw(frameRef, currentContext); CFRelease(frameRef); CFRelease(stringRef); CFRelease(framesetter);&#125; 在PDFRenderer.h文件中添加下面代码： 1+(void)drawText:(NSString*)textToDraw inFrame:(CGRect)frameRect 下面是从InvoiceView中加载label，使用文本和位置大小来绘制到PDF上。在PDFRenderer.m中的drawPDF的商法添加一个新方法drawLabels: 12345678910+ (void)drawLabels &#123; NSArray *objects = [[NSBundle mainBundle] loadNibNamed:@"InvoiceView" owner:nil options:nil]; UIView *mainView = [objects lastObject]; for (UIView *view in [mainView subviews]) &#123; if ([view isKindOfClass:[UILabel class]]) &#123; UILabel *label = (UILabel*)view; [self drawText:label.text inFrame:label.frame]; &#125; &#125;&#125; 这个方法是加载InvoiceView，遍历InvoiceView中的labels，调用drawText，将text和frame变量传递过去。 需改drawPDF方法： 1234567891011+ (void)drawPDF:(NSString*)fileName &#123; UIGraphicsBeginPDFContextToFile(fileName, CGRectZero, nil); UIGraphicsBeginPDFPageWithInfo(CGRectMake(0, 0, 612, 792), nil); [self drawText:@"Hello world" inFrame:CGRectMake(0, 0, 300, 50)]; [self drawLabels];// [self drawText]; UIGraphicsEndPDFContext();&#125; 运行下模拟器： 啊哈，能运行出来，但结果不是令人满意，文字啥的都是反的。接下来就坐下处理，修改drawText 的代码： 1234567CGContextTranslateCTM(currentContext, 0, frameRect.origin.y*2); CGContextScaleCTM(currentContext, 1.0, -1.0); CTFrameDraw(frameRef, currentContext); CGContextScaleCTM(currentContext, 1.0, -1.0); CGContextTranslateCTM(currentContext, 0, (-1.0) * frameRect.origin.y * 2); 再次运行下模拟器，看下结果： 结果比较令人满意。 添加logo打开InvoiceView.xib 添加一个UIImageView 然后在PDFRenderer.m 中添加drawLogo方法: 12345678910+ (void)drawLogo &#123; NSArray *objects = [[NSBundle mainBundle] loadNibNamed:@"InvoiceView" owner:nil options:nil]; UIView *mainView = [objects lastObject]; for (UIView *view in [mainView subviews]) &#123; if ([view isKindOfClass:[UIImageView class]]) &#123; UIImage *logo = [UIImage imageNamed:@"ray-logo"]; [self drawImage:logo inRect:view.frame]; &#125; &#125;&#125; 处理逻辑和drawLabels 方法类似。 最后在drawPDF 方法中的[self drawLabels] 语句后调用[self drawLogo] 。来看下运行效果： 绘制一个表格绘制表格不能像使用InvoiceView 那样，需要一系列的变量来替代，例如：table的width和height，row的height，column的width。 下面在PDFRenderer.m 的drawPDF 上方添加如下代码： 123456789101112131415+ (void)drawTableAt:(CGPoint)origin withRowHeight:(int)rowHeight andColumnWidth:(int)columnWidth andRowCount:(int)numberOfRows andColumnCount:(int)numberOfColumns&#123; for (int i = 0; i &lt;= numberOfRows; i++) &#123; int newOrigin = origin.y + (rowHeight * i); CGPoint from = CGPointMake(origin.x, newOrigin); CGPoint to = CGPointMake(origin.x + (numberOfColumns*columnWidth), newOrigin); [self drawLineFromPoint:from toPoint:to]; &#125;&#125; 上面方法是绘制水平线，循环遍历每一行，计算每行的起始和结束位置。最后调用drawLine:from:to 方法绘制水平线： 123456789101112131415161718192021222324+ (void)drawPDF:(NSString*)fileName &#123; UIGraphicsBeginPDFContextToFile(fileName, CGRectZero, nil); UIGraphicsBeginPDFPageWithInfo(CGRectMake(0, 0, 612, 792), nil); [self drawText:@"Hello world" inFrame:CGRectMake(0, 0, 300, 50)]; [self drawLabels]; [self drawLogo]; int xOrigin = 50; int yOrigin = 300; int rowHeight = 50; int columnWidth = 120; int numberOfRows = 7; int numberOfColumns = 4; [self drawTableAt:CGPointMake(xOrigin, yOrigin) withRowHeight:rowHeight andColumnWidth:columnWidth andRowCount:numberOfRows andColumnCount:numberOfColumns]; UIGraphicsEndPDFContext();&#125; 运行模拟器，看下效果： 接下来是绘制垂直线条，在drawTable 方法中的第一个循环的下方再添加一个循环： 12345678910111213141516171819202122232425+ (void)drawTableAt:(CGPoint)origin withRowHeight:(int)rowHeight andColumnWidth:(int)columnWidth andRowCount:(int)numberOfRows andColumnCount:(int)numberOfColumns&#123; //绘制水平线 for (int i = 0; i &lt;= numberOfRows; i++) &#123; int newOrigin = origin.y + (rowHeight * i); CGPoint from = CGPointMake(origin.x, newOrigin); CGPoint to = CGPointMake(origin.x + (numberOfColumns*columnWidth), newOrigin); [self drawLineFromPoint:from toPoint:to]; &#125; //绘制垂直线 for (int i = 0; i &lt;= numberOfColumns; i++) &#123; int newOrigin = origin.x + (columnWidth * i); CGPoint from = CGPointMake(newOrigin, origin.y); CGPoint to = CGPointMake(newOrigin, origin.y + (numberOfRows * rowHeight)); [self drawLineFromPoint:from toPoint:to]; &#125;&#125; 再次运行下模拟器，看下效果： 看着似乎已完成，但还缺少一些数据填充到表格当中，那么接下来完成此过程，让此PDF近乎完美。 填充表格模拟数据填充表格，在PDFRenderer.m 中的drawPDF 方法的上方添加 drawTableDataAt 方法: 12345678910111213141516171819202122232425+ (void)drawTableDataAt:(CGPoint)origin withRowHeight:(int)rowHeight andColumnWidth:(int)columnWidth andRowCount:(int)numberOfRows andColumnCount:(int)numberOfColumns&#123; NSArray *header = @[@"Quantity", @"Description", @"Unit price", @"Total"]; NSArray *invoiceInfo1 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo2 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo3 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo4 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *allInfo = @[header, invoiceInfo1, invoiceInfo2, invoiceInfo3, invoiceInfo4]; for (int i = 0; i &lt; allInfo.count; i++) &#123; NSArray *infoToDraw = allInfo[i]; for (int j = 0; j&lt; numberOfColumns; j++) &#123; int newOriginX = origin.x + (columnWidth * j); int newOriginY = origin.y + (rowHeight * (i+1)); CGRect frame = CGRectMake(newOriginX, newOriginY, columnWidth, rowHeight); [self drawText:infoToDraw[j] inFrame:frame]; &#125; &#125;&#125; 第一个数组是表头数据，其他数组是表中行和列的值。 在drawPDF 中调用drawTableDataAt（在UIGraphicsEndPDFContext 之前调用）： 12345[self drawTableDataAt:CGPointMake(xOrigin, yOrigin) withRowHeight:rowHeight andColumnWidth:columnWidth andRowCount:numberOfRows andColumnCount:numberOfColumns]; 运行模拟器，将会看到表中填充的数据: 感觉还差点什么，再做最后一次调整：添加间距padding 1234567891011121314151617181920212223242526+ (void)drawTableDataAt:(CGPoint)origin withRowHeight:(int)rowHeight andColumnWidth:(int)columnWidth andRowCount:(int)numberOfRows andColumnCount:(int)numberOfColumns&#123; int padding = 10; NSArray *header = @[@"Quantity", @"Description", @"Unit price", @"Total"]; NSArray *invoiceInfo1 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo2 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo3 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *invoiceInfo4 = @[@"1", @"Development", @"$1000", @"1000"]; NSArray *allInfo = @[header, invoiceInfo1, invoiceInfo2, invoiceInfo3, invoiceInfo4]; for (int i = 0; i &lt; allInfo.count; i++) &#123; NSArray *infoToDraw = allInfo[i]; for (int j = 0; j&lt; numberOfColumns; j++) &#123; int newOriginX = origin.x + (columnWidth * j); int newOriginY = origin.y + (rowHeight * (i+1)); CGRect frame = CGRectMake(newOriginX+padding, newOriginY+padding, columnWidth, rowHeight); [self drawText:infoToDraw[j] inFrame:frame]; &#125; &#125;&#125; 最终结果： 大功告成，此PDF主要展示了图片、表格和数据。]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>Tutorial</tag>
-        <tag>PDF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[iOS开发之Quartz2D生成PDF-Part1]]></title>
-    <url>%2F2015%2F08%2FiOS%E5%BC%80%E5%8F%91%E4%B9%8BQuartz2D%E7%94%9F%E6%88%90PDF-Part1%2F</url>
-    <content type="text"><![CDATA[使用iOS的Quartz2D 生成PDF文件首先创建一个工程，导入CoreText.framework框架。在PDFViewController.h文件中引入CoreText文件 1#import &lt;CoreText/CoreText.h&gt; 在PDFViewController.m文件中创建一个新方法： 12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455-(void)drawText&#123; NSString* fileName = @"Invoice.PDF"; NSArray *arrayPaths = NSSearchPathForDirectoriesInDomains( NSDocumentDirectory, NSUserDomainMask, YES); NSString *path = [arrayPaths objectAtIndex:0]; NSString* pdfFileName = [path stringByAppendingPathComponent:fileName]; NSString* textToDraw = @"Hello World"; CFStringRef stringRef = (__bridge CFStringRef)textToDraw; // 使用 Core Text Framesetter. CFAttributedStringRef currentText = CFAttributedStringCreate(NULL, stringRef, NULL); CTFramesetterRef framesetter = CTFramesetterCreateWithAttributedString(currentText); CGRect frameRect = CGRectMake(0, 0, 300, 50); CGMutablePathRef framePath = CGPathCreateMutable(); CGPathAddRect(framePath, NULL, frameRect); // 获取将要被渲染的帧 CFRange currentRange = CFRangeMake(0, 0); CTFrameRef frameRef = CTFramesetterCreateFrame(framesetter, currentRange, framePath, NULL); CGPathRelease(framePath); // 创建一个PDF的上下文，页面大小默认为 612 x 792 UIGraphicsBeginPDFContextToFile(pdfFileName, CGRectZero, nil); // 标记新页面的开头 UIGraphicsBeginPDFPageWithInfo(CGRectMake(0, 0, 612, 792), nil); // 获取上下文. CGContextRef currentContext = UIGraphicsGetCurrentContext(); // 把文字变成矩阵已知状态。这将确保没有旧缩放因子被留在原处。 CGContextSetTextMatrix(currentContext, CGAffineTransformIdentity); //文本坐标翻转 CGContextTranslateCTM(currentContext, 0, 100); CGContextScaleCTM(currentContext, 1.0, -1.0); // 绘制帧 CTFrameDraw(frameRef, currentContext); CFRelease(frameRef); CFRelease(stringRef); CFRelease(framesetter); //关闭PDF上下文 UIGraphicsEndPDFContext(); &#125; 此方法有点长，在此分段解释下： 在沙盒目录下创建PDF文件，并命名为Invoice.pdf 123456789NSString* fileName = @"Invoice.PDF"; NSArray *arrayPaths =NSSearchPathForDirectoriesInDomains( NSDocumentDirectory, NSUserDomainMask, YES);NSString *path = [arrayPaths objectAtIndex:0];NSString* pdfFileName = [path stringByAppendingPathComponent:fileName]; 下面的代码块是创建一个已“Hello，world”为内容的PDF，将string转换为CFStringRef格式 12345NSString* textToDraw = @"Hello World";CFStringRef stringRef = (__bridge CFStringRef)textToDraw; CFAttributedStringRef currentText = CFAttributedStringCreate(NULL, stringRef, NULL);CTFramesetterRef framesetter = CTFramesetterCreateWithAttributedString(currentText); 然后是创建一个CGRect用于定义文本的大小 1234567CGRect frameRect = CGRectMake(0, 0, 300, 50);CGMutablePathRef framePath = CGPathCreateMutable();CGPathAddRect(framePath, NULL, frameRect); CFRange currentRange = CFRangeMake(0, 0);CTFrameRef frameRef = CTFramesetterCreateFrame(framesetter, currentRange, framePath, NULL);CGPathRelease(framePath); 接下来，我们创建一个PDF上下文和标记的PDF的起始页。 PDF的每个页面都有开始并调用UIGraphicsBeginPDFPageWithInfo 。 12345UIGraphicsBeginPDFContextToFile(pdfFileName, CGRectZero, nil); UIGraphicsBeginPDFPageWithInfo(CGRectMake(0, 0, 612, 792), nil); CGContextRef currentContext = UIGraphicsGetCurrentContext(); 由于Core Graphics 的坐标是从左下角开始，而UIKit的坐标是从左上角开始，所以需做一个变换： 1234CGContextSetTextMatrix(currentContext, CGAffineTransformIdentity); CGContextTranslateCTM(currentContext, 0, 100);CGContextScaleCTM(currentContext, 1.0, -1.0); 我们绘制文本实际帧，释放Core Graphics对象，并关闭PDF上下文至此PDF写入到沙盒目录下。 1234567CTFrameDraw(frameRef, currentContext); CFRelease(frameRef);CFRelease(stringRef);CFRelease(framesetter); UIGraphicsEndPDFContext(); 使用UIWebView展示PDF文件在PDFViewController.m中的drawText方法后添加下面方法： 123456789101112131415161718192021-(void)showPDFFile&#123; NSString* fileName = @"Invoice.PDF"; NSArray *arrayPaths = NSSearchPathForDirectoriesInDomains( NSDocumentDirectory, NSUserDomainMask, YES); NSString *path = [arrayPaths objectAtIndex:0]; NSString* pdfFileName = [path stringByAppendingPathComponent:fileName]; UIWebView* webView = [[UIWebView alloc] initWithFrame:CGRectMake(0, 0, 320, 480)]; NSURL *url = [NSURL fileURLWithPath:pdfFileName]; NSURLRequest *request = [NSURLRequest requestWithURL:url]; [webView setScalesPageToFit:YES]; [webView loadRequest:request]; [self.view addSubview:webView]; &#125; 在viewDidLoad中添加 1234567- (void)viewDidLoad&#123; [self drawText]; [self showPDFFile]; [super viewDidLoad];&#125;]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-      <tags>
-        <tag>Tutorial</tag>
-        <tag>PDF</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[assign、copy、retain等关键字的含义]]></title>
-    <url>%2F2015%2F04%2F2015-04-21-assign%2C-copy%2C-retaindeng-guan-jian-zi-de-han-yi%2F</url>
-    <content type="text"><![CDATA[前言assign:简单赋值，不更改索引计数 copy:建立一个索引计数为1的对象，然后释放旧对象 retain:释放就对象，将旧对象的值赋予输入对象，再将输入对象的索引计数加1 copy 其实就是建立了一个相同的对象，而retain不是： 比如，一个NSString对象，地址为0x1111，内容为@”Hello，world！”；copy到另一个NSString对象之后，地址为0x2222，内容相同，新的对象retain为1，旧的对象索引计数没用变化。 retain到另一个NSString对象之后，地址相同（建立一个指针，指针拷贝），内容相同，这个对象的retain值+1 也就是说，retain是指针拷贝，而copy是内容拷贝。拷贝之前都会将旧的对象给释放掉。 使用范围：*assign的使用：一般对应于基础数据类型（NSInteger）和C数据类型（int, float, double, char 等） *copy的使用：一般对应于NSString *retain的使用：一般对应于NSObject和其他子类 1.readonly：表示这个属性是只读的，就是只生成getter方法不会生成setter方法； 2.readwrite：设置可供访问级别； 3.retain：旨在说明该属性在赋值的时候，先release掉之前的值，然后再赋新值给属性，引用计数再+1； 4.nonatomic：非原子性访问，不加同步，多线程并发访问会提高性能。注意：如果不加此属性，则默认是两个访问方法都为原子型事务访问。 区别1.假设用malloc分配了一个块内存，并把它的地址赋值给了指针a，然后你希望指针b也共享这块内存，于是你又把a赋值给（assign）了b。至此a和b就指向了同一块内存，请问当a不再需要这块内存是，能否直接释放掉？答案为No！是的，因为a并不知道b是否还在使用这块内存，如果a释放了，那么b在使用这块内存的时候会引起程序crash。 2.了解到1中assign的问题后，那么问题来了，该如何解决呢？最简单的一个方法就是：使用引用计数。还是上面那个问题，我们给那块内存设一个内存引用计数，当内存被分配并且赋值给a时，引用计数是1。当a赋值给b时，引用计数增加到2，这时如果a不再使用这块内存，它只需把引用计数减1，表明自己不再拥有这块内存，b不再使用这块内存时也把引用计数减1，当引用计数变为0时，代表该内存不再被任何指针所引用，系统可以把它直接释放掉。 3.上面两点其实就是assign和retain的区别，assign就是直接赋值，从而会引起1中的问题。当数据为int, float,等原生类型时，可以使用assign。retain就如2中所述，使用了引用计数，retain引起引用计数+1，release引起引用计数-1，当引用计数为0时，dealloc函数将会被调用，内存被回收。 4.copy是在你不希望a和b共享同一块内存是使用到。a和b各自有各自的内存。 5.atomic 和 nonatomic用来决定编译器生成的getter和setter是否为原子操作。在多线程环境下，原子操作是必要的，否则有可能引起错误的结果。加了atomic后, setter函数会变成这样： 1234if (property != newValue) &#123; [property release]; property = [newValue retain];&#125;]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[多台电脑写博客之博客克隆]]></title>
-    <url>%2F2015%2F04%2F2015-04-01-duo-tai-dian-nao-xie-bo-ke-zhi-bo-ke-ke-long%2F</url>
-    <content type="text"><![CDATA[创建一个本地的Octopress仓库重新创建一个本地的Octopress仓库只需执行以下几步骤即可。 拉取Octopress仓库内容首先克隆自己的Octopress仓库，初始化git仓库，添加远程仓库，也就是你自己的Octopress地址，pull到远程仓库。在终端执行如下命令： 12345mkdir Octopresscd Octopressgit initgit remote add origin git@github.com:username/username.github.com.gitgit pull origin 切换到source分支这时候进入Octopress目录，发现除了初始化生成的.git目录外什么都没有。执行如下命令后source分支的东西就都出来的了。 1git checkout source 建立github pages1rake setup_github_pages 拉取master分支进入_deploy目录，运行如下命令： 1git pull origin master 切换回source分支1git checkout source 至此，Octopress就在另一台电脑上克隆好了，你就可以在不同的电脑上维护同一个博客了，运行一下如下命令，确认没有问题。 123rake generaterake previewrake deploy 更新和推送当你要在一台电脑上写博客或更改时，首先更新source仓库。更新master并不是必须的，因为你更改源文件之后还是需要rake generate的。 1234cd Octopressgit pull origin sourcecd _deploygit pull origin master 写完博客之后不要忘了推送到remote，下面的命令在每次处理完博客事务后记得要运行。 12345rake generategit add .git commit –m &quot;commit message&quot;git push origin sourcerake deploy 遇到的问题当你换了一台新电脑之后，需要重新签名，签名请参考generating-ssh-keys]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[使用Xib自定义UIView并在Storyboard中使用AutoLayout]]></title>
-    <url>%2F2015%2F03%2F2015-03-20-shi-yong-xibzi-ding-yi-uiviewbing-zai-storyboardzhong-shi-yong-autolayout%2F</url>
-    <content type="text"><![CDATA[Xib和Storyboard的使用我就不多叙述。关于如何用Xib自定义一个UIView，并将其添加在ViewController上，使用AutoLayout添加约束条件，使其跟随控制器ViewController的约束条件变化而变化呢？请看下文。 1、 创建一个继承UIView的子类TestView和xib文件 2、 选中xib中的File’s Owner，设置右边工具栏中的Custom Class为你所创建的文件TesView 3、 在TestView.h中添加一个IBOutlet属性 1@property (nonatomic, weak) IBOutlet UIView *view; 4、 将此IBOutlet 连接到TestView.xib 的View 5、在TestCustomView.m文件中初始化，如下： 1234567891011- (instancetype)initWithCoder:(NSCoder *)aDecoder&#123; self = [super initWithCoder:aDecoder]; if (self) &#123; NSString *className = NSStringFromClass([self class]); self.view = [[[NSBundle mainBundle] loadNibNamed:className owner:self options:nil] firstObject]; [self addSubview:self.view]; return self; &#125; return nil;&#125; 或者在awakeFromNib中添加也可以： 1234- (void)awakeFromNib &#123; [[[NSBundle mainBundle] loadNibNamed:NSStringFromClass([self class]) owner:self options:nil] firstObject]; [self addSubview:self.view];&#125; 6、在Storyboard中引用xib文件]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Storyboard中TabBar显示灰色外观的问题]]></title>
-    <url>%2F2015%2F03%2F2015-03-18-storyboardzhong-tabbarxian-shi-hui-se-wai-guan-de-wen-ti%2F</url>
-    <content type="text"><![CDATA[现象：tabbar上的图片不是预期的图标，而是呈现出一个该图标的灰色形状，一眼看上去不是让人舒服。 原因：tabbar上的图片本质上不是一个图片，而是一个形状图片。系统对我们使用的图片也只是把其中的形状”扣”出来，其余的背景什么的都不要。因为我们可能给背景加了颜色，所以系统扣的时候只是把背景扣出来了，我们模拟时只看到一个方块，而且还是系统处理过成灰色。解决办法：如图，选中Original Image，OK！或者让UI将染色淡化为透明最好效果图如下 用Storyboard设置Tab Bar Controller 的item选中方法Setting Selected Image in Tab Bar Controller with Storyboard 链接 首先进入Storyboard，选中TabBarItem，选择Show the Identity inspector ，在Runtime Attributes中的Keypath栏添加’selectedImage’，Type选择’Image’， value栏填写 ‘your_image_name’(你图片的名字) 如图]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[iOS系统兼容性需求的方法]]></title>
-    <url>%2F2015%2F03%2F2015-03-16-iosxi-tong-jian-rong-xing-xu-qiu-de-fang-fa%2F</url>
-    <content type="text"><![CDATA[iOS系统兼容性需求的方法·判断系统版本，按运行时的版本号运行代码 123456// System Versioning Preprocessor Macros#define SYSTEM_VERSION_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)#define SYSTEM_VERSION_GREATER_THAN(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)#define SYSTEM_VERSION_LESS_THAN(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending) 使用: 123456if (SYSTEMVERSIONLESS_THAN(@“5.0”)) &#123; //系统版本小于5.0... Do something... &#125;]]></content>
-      <categories>
-        <category>iOS</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[基于Octopress和github搭建个人博客的过程]]></title>
-    <url>%2F2015%2F03%2F2015-03-13-ji-yu-octopresshe-githubda-jian-ge-ren-bo-ke-de-guo-cheng%2F</url>
-    <content type="text"><![CDATA[促使我搭建个人博客的原因应该归结于那些大牛们都有属于自己的博客站点，感觉挺牛X的；另一方面就是想有个干净整洁的纯技术博客。 下面分享下我是怎么搭建此博客的。 首先安装ruby http://octopress.org/docs/setup/ 1234567brew updatebrew install rbenvbrew install ruby-buildrbenv install 1.9.3-p0rbenv local 1.9.3-p0rbenv rehash 你有可能需要安装老版本的GCC编译器才能顺利安装Ruby 1.9.3: 12brew tap homebrew/dupesbrew install apple-gcc42 安装Octopress先从git上将octopress clone下来： 12git clone git://github.com/imathis/octopress.git Octopresscd Octopress 然后安装依赖：进入Octopress目录，执行如下命令： 123gem install bundlerrbenv rehashbundle install 最后安装Octopress进入Octopress目录，执行如下命令： 1rake install 发布Octopress到Github进入Octopress目录，执行如下命令： 1rake setup_github_pages 在Repository url中输入刚刚创建的仓库地址：git@github.com:username/username.github.io.git，自行替换username。 然后生成静态页面发布 12rake generaterake deploy 提交源文件，即source分支 123git add .git commit -m &apos;your message&apos;git push origin source 博文的发表进入Octopress目录，执行如下命令： 生成博文框架，然后修改生成的文件即可 12rake new_post[&quot;title&quot;]# Creates source/_posts/2011-07-03-title.markdown 生成静态文件和在本机4000端口生成访问内容 1rake generate &amp;&amp; rake preview 发布文件 1rake deploy 参考： ·http://blog.devtang.com/blog/2012/02/10/setup-blog-based-on-github/ ·http://blog.csdn.net/jackystudio/article/details/16117585 ·http://shengmingzhiqing.com/blog/octopress-tutorials-toc.html/ ·http://www.cnblogs.com/oec2003/archive/2013/05/31/3109577.html]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Mac OS X 常用命令]]></title>
-    <url>%2F2015%2F03%2F2015-03-13-mac-os-x-chang-yong-ming-ling%2F</url>
-    <content type="text"><![CDATA[记录下平时在Mac终端常用的指令 当前工作目录 1pwd 进入文件夹 1cd 文件名 上级目录 1cd .. 返回root 1cd ~ 返回上一个访问的目录 1cd - 删除 1rm -r 文件名 列出目录下所有文件 1ls 将文件拷贝到目标目录下 1cp 文件名 目标目录 新建文件夹 1mkdir 文件夹名]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[网络实时监控]]></title>
-    <url>%2F2014%2F04%2F%E7%BD%91%E7%BB%9C%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%2F</url>
-    <content type="text"><![CDATA[在做项目时我们对网络监听是必不可少的，那么今天我们就来学习下如何对网络的状态进行实时监听。 首先，添加第三方Reachability，在自己的工程中加入需要添加Systemconfiguration.framework系统库。 选择#import&quot;AppDelegate.m&quot;文件，在didFinishLaunchingWithOptions方法中添加如下代码： 1234//网络检测****************[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(reachabilityChanged:) name: kReachabilityChangedNotification object: nil];hostReach = [Reachability reachabilityWithHostName:@"www.baidu.com"];[hostReach startNotifier]; 1234567891011121314151617181920212223242526272829303132333435- (void)reachabilityChanged:(NSNotification*)note&#123; NSLog(@"==_=="); Reachability* curReach= [note object]; NSParameterAssert([curReach isKindOfClass: [Reachability class]]); [self updateInterfaceWithReachability:curReach];&#125;// 更新网络状态- (void)updateInterfaceWithReachability: (Reachability*)curReach&#123; //对连接改变做出响应的处理动作。 NetworkStatus status=[curReach currentReachabilityStatus]; NSUserDefaults * user =[NSUserDefaults standardUserDefaults]; if (status== NotReachable) &#123; //没有连接到网络就弹出提实况 [user removeObjectForKey:@"network"]; [user setBool:NO forKey:@"network"]; [self showAlert:@"网络连接被断开"]; &#125;else&#123; [user removeObjectForKey:@"network"]; [user setBool:YES forKey:@"network"]; [self showAlert:@"网络连接成功"]; &#125; NSLog(@"%@",[user objectForKey:@"network"]); [[NSNotificationCenter defaultCenter]postNotificationName:@"network" object:user];&#125;-(void)showAlert:(NSString *)message&#123; UIAlertView*alert= [[UIAlertView alloc] initWithTitle:message message:nil delegate:nil cancelButtonTitle:@"确定"otherButtonTitles:nil]; [alert show];&#125; 再选择#import&quot;ViewController.m&quot;文件，在此viewDidLoad中添加注册通知: 1234567- (void)viewDidLoad&#123; [super viewDidLoad]; // Do any additional setup after loading the view. [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(network:) name:@"network" object:nil];&#125; 1234567891011-(void)network:(NSNotification *)note&#123; id obj = [note object];//获取到传递的对象 NSLog(@"---%@-----",[obj objectForKey:@"network"]); BOOL isOpen = [[obj objectForKey:@"network"] intValue]; NSLog(@"%d",isOpen); if (isOpen) &#123; NSLog(@"--有网络--"); &#125;else&#123; NSLog(@"--无网络--"); &#125;&#125; 最近学会的一个怎么实现网络实时监控的简易方法。欢迎大家能指出其中不恰当的地方。]]></content>
-      <categories>
-        <category>琐碎杂记</category>
-      </categories>
-      <tags>
-        <tag>Reachability</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> tag1 </tag>
+            
+            <tag> tag2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
