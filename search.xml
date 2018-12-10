@@ -1,31 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[从烈火烹油到批量死亡，区块链媒体“梦碎”]]></title>
-    <url>%2Fblog%2F2018%2F12%2Fasset-test%2F</url>
-    <content type="text"><![CDATA[摘要: 和其他行业相比，区块链媒体的行业周期要短的多，半年时间就从遍地捡钱到批量死亡。回顾过去，很多人对这个行业的印象都惊人的一致：从业者鱼龙混杂，职业操守堪忧。90%以上区块链媒体被认为是骗子。他们批量被淘汰后，这个行业还有春天吗？ 本文来自全天候科技，阅读更多请登陆www.awtmt.com或华尔街见闻APP。 作者| 张吉龙 编辑| 安心 从今年年初到现在，李见换了三家公司，title也变了三次，他先是一家传统媒体的记者，然后变成一家区块链媒体的记者，现在是一家币圈交易所的公关（PR）。 在区块链媒体行业里，李见的经历并非孤例。从传统媒体人到区块链媒体人再到离场，行业的起伏改变了很多人的职业轨迹，在短短的几个月里，很多人从心怀热情到理想破灭，对这个行业充满了失望。 从烈火烹油到大范围的裁员、倒闭，转型，区块链媒体在短短几个月内完整的经历了一个周期。大部分玩家已经退场，少部分人还在艰难坚持，他们希望自己能够挺过这个冬天，但行业回暖到底还会不会来？谁也说不准。]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>从烈火烹油到批量死亡，区块链媒体“梦碎”</title>
+      <link href="/2018/12/asset-test/"/>
+      <url>/2018/12/asset-test/</url>
+      
+        <content type="html"><![CDATA[<!-- ![](./asset-test/article-header-img.jpg) --><img src="/2018/12/asset-test/article-header-img.jpg"><blockquote><p>摘要: 和其他行业相比，区块链媒体的行业周期要短的多，半年时间就从遍地捡钱到批量死亡。回顾过去，很多人对这个行业的印象都惊人的一致：从业者鱼龙混杂，职业操守堪忧。90%以上区块链媒体被认为是骗子。他们批量被淘汰后，这个行业还有春天吗？</p></blockquote><p><em>本文来自全天候科技，阅读更多请登陆<a href="www.awtmt.com">www.awtmt.com</a>或华尔街见闻APP。</em></p><a id="more"></a><p>作者| 张吉龙 编辑| 安心</p><p>从今年年初到现在，李见换了三家公司，title也变了三次，他先是一家传统媒体的记者，然后变成一家区块链媒体的记者，现在是一家币圈交易所的公关（PR）。</p><p>在区块链媒体行业里，李见的经历并非孤例。从传统媒体人到区块链媒体人再到离场，行业的起伏改变了很多人的职业轨迹，在短短的几个月里，很多人从心怀热情到理想破灭，对这个行业充满了失望。</p><p>从烈火烹油到大范围的裁员、倒闭，转型，区块链媒体在短短几个月内完整的经历了一个周期。大部分玩家已经退场，少部分人还在艰难坚持，他们希望自己能够挺过这个冬天，但行业回暖到底还会不会来？谁也说不准。</p>]]></content>
+      
+      
       <categories>
-        <category>区块链</category>
-        <category>新闻</category>
+          
+          <category> 区块链 </category>
+          
+          <category> 新闻 </category>
+          
       </categories>
-      <tags>
-        <tag>新金融</tag>
-        <tag>区块链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[hello world]]></title>
-    <url>%2Fblog%2F2018%2F12%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      
+      
+        <tags>
+            
+            <tag> 新金融 </tag>
+            
+            <tag> 区块链 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/2018/12/hello-world/"/>
+      <url>/2018/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
       <categories>
-        <category>Linux</category>
-        <category>Hexo</category>
-        <category>Tools</category>
-        <category>PHP</category>
+          
+          <category> Linux </category>
+          
+          <category> Hexo </category>
+          
+          <category> Tools </category>
+          
+          <category> PHP </category>
+          
       </categories>
-      <tags>
-        <tag>tag1</tag>
-        <tag>tag2</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> tag1 </tag>
+            
+            <tag> tag2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
